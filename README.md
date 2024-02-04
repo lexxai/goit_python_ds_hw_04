@@ -2,6 +2,8 @@
 
 ## Домашнє завдання
 
+*З циклу [домшніх завдвнь Python Data Science](https://github.com/lexxai/goit_python_data_sciense_homework).*
+
 На цей раз вам потрібно виконати завдання з [цього ноутбука](goit_ds_hw04_OverfittingHomeWork_task_UA.ipynb). Для вирішення запропонованих завдань вам також потрібно [завантажити датасет](bikes_rent.csv) з даними про оренду велосипедів.
 
 
